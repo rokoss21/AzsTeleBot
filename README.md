@@ -15,8 +15,8 @@ To install and run this bot, you'll need Python 3.6 or later and pip installed o
 
 1. Clone the repository
 
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/rokoss21/AzsTeleBot.git
+cd AzsTeleBot
 
 2. Install Dependencies
 
@@ -34,7 +34,7 @@ Running the Bot 🚀
 
 To start the bot, simply run the script with Python:
 
-python bot_script.py
+python AzsTeleBot.py
 
 Commands 📝
 
